@@ -7,8 +7,6 @@ The program takes an input n from the user and generates a reverse Fibonacci ser
 # example
 if the user enters 7, the program will generate the following reverse Fibonacci series:
 21 13 8 5 3 2 1
-# Prerequisites
-Python 3.x
 # Contributing
 Contributions are welcome! If you would like to improve this program or add new features, please feel free to submit a pull request.
 # Acknowledgments
